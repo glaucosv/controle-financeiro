@@ -39,7 +39,7 @@ Aplicativo de controle financeiro pessoal desenvolvido em React Native com Expo,
    expo start
 
 🎨 Screenshots
-<img src="assets/home.jpg" width="250" alt="Tela inicial do aplicativo"> <img src="assets/transaction.png" width="250" alt="Tela de adicionar lançamento">
+<img src="assets/home.jpg" width="250" alt="Tela inicial do aplicativo"> <img src="assets/transaction.jpg" width="250" alt="Tela de adicionar lançamento">
 
 🧑‍💻 Contribuições
 Sinta-se à vontade para enviar issues e pull requests para melhorar o aplicativo! Toda contribuição será bem-vinda.
